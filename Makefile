@@ -8,7 +8,7 @@ LDFLAGS 	= -T ./linker.ld -nostdlib
 KERNEL_BIN = kernel.bin
 KERNEL_ISO = kernel.iso
 
-OBJS = src/crt0.o src/main.o
+OBJS = src/crt0.o src/kernel.o
 
 all: iso
 
