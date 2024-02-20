@@ -1,6 +1,6 @@
 # My First Kernel
 
-This repository contains the source code shown in the article: `My First Kernel`
+This repository contains the source code shown in the article: [`My First Kernel`](https://blog.gistre.epita.fr/posts/leo.duboin-2023-11-26-my_first_kernel/)
 on the GISTRE blog
 
 This kernel should boot correctly and write `Hello, GISTRE!` onto the screen.
